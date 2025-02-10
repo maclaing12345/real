@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1 {
+    font-weight: lighter;
+    
+}
+
+header {
+    background-color:rgb(98, 66, 66);
+    padding: 40px;
+    font-size: xx-large;
+outline-style: groove;
+    font-family: "Roboto Condensed", serif;
+    font-optical-sizing: auto; 
+  }
+
+   
+  button{
+    background-color: rgb(195, 194, 194);
+   
+    border: blac;
+    padding: 25px;
+    cursor: pointer;
+    font-family: "Roboto Condensed", serif;
+    font-optical-sizing: auto; 
+  }
+.Questions{
+    background-color: rgb(255, 255, 255);
+
+    }
+
+#Pop{
+    position: absolute;
+    top: 70vh;
+    left: 1vw;
+    width: 300px;
+    height: 150px;
+    font-size: 500%;
+}
+#EDM{
+    position: absolute;
+    top: 70vh;
+   right: 1vw;
+    width: 300px;
+    height: 150px;
+    font-size: 500%;
+}#Country{
+    position: absolute;
+    top: 35vh;
+    right: 1vw;
+    width: 300px;
+    height: 150px;
+    font-size: 500%;
+}
+#Rap{
+    position: absolute;
+    top: 35vh;
+    left: 1vw;
+    width: 300px;
+    height: 150px;
+    font-size: 500%;
+    
+}
+#Restart{
+padding: 30px;
+font-size: 30px;
+}
